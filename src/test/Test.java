@@ -5,5 +5,6 @@ public class Test {
 		System.out.println("·³");
 		System.out.println("helloa");
 		System.out.println("¹ö");
+		System.out.println("wdnmd");
 	}
 }
